@@ -9,6 +9,8 @@ This project was created for the Hackathon NASA Space Apps 2023, in response to 
 
 [Visit our website](https://www.vizionaries.tech/)
 
+![Visualiation]()
+
 ## Summary
 In a world where complex challenges such as climate change, poverty, water and food insecurity, and diseases threaten our planet, we recognize that scientists and data analysts cannot tackle these issues alone. We need individuals from all fields and backgrounds to engage with this data, contribute insights, and collaborate as a global task force.
 
