@@ -43,7 +43,7 @@ We've also developed an AI capable of generating graphs. The test files are avai
 </div>
 
 We've created a 3D visualization globe using the Globe.gl library, which offers an excellent visual representation of data. To populate the globe, we conducted research, data analysis, and treatment, populating a geojson file to ensure optimal functionality.
-
+If we've more time, we would include if you click in a special country you will find more details for the specific dataset that you're visualizing.
 <div align="center">
   <img src="https://github.com/KnuppLucas/Vizionaries/assets/102392874/74ee61be-bdbe-411a-b838-559334105a97" alt="Image 3">
 </div>
